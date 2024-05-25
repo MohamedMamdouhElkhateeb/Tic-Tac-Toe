@@ -9,7 +9,7 @@ This project is a Tic Tac Toe game with a graphical user interface (GUI) created
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/tictactoe-ai.git
+   git clone https://github.com/MohamedMamdouhElkhateeb/tictactoe-ai.git
    cd tictactoe-ai
    ```
 
